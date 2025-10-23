@@ -1,5 +1,6 @@
 #!/home/akiyama8192/anaconda3/bin/python3
-#SPDX-FileCopyrightText: 2025 Taiki Akiyama
+# SPDX-FileCopyrightText: 2025 Taiki Akiyama
+# SPDX-License-Identifier: BSD-3-Clause
 import sys
 
 ans = 0
